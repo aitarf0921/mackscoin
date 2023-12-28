@@ -59,7 +59,7 @@ router.get('/', async (ctx) => {
 	ctx.status = 200;
 	await ctx.render('macksCoinInfo');
 });
-router.get('/macksCoin.whitePaper', async (ctx) => {
+router.get('/whitePaper', async (ctx) => {
 	ctx.status = 200;
 	await ctx.render('macks_whitePaper');
 });
