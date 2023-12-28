@@ -1,0 +1,2 @@
+# mackscoin
+macks coin
